@@ -24,7 +24,7 @@ Este repositório documenta minha experiência no **laboratório de Gerenciament
 - Configuração de rede e **grupos de segurança**.  
 
 📸 *Evidência*:  
-![Criação da Instância](./images/01-criacao-instancia.png)
+<img width="344" height="339" alt="image" src="https://github.com/user-attachments/assets/0fb84192-0c2a-428e-a801-6392bb1dabba" />
 
 ---
 
